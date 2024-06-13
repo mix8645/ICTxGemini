@@ -1,2 +1,3 @@
 # MyChatbot
-Final Project about Chatbot Gemini Pro x Msteam
+Final Project about Chatbot Gemini Pro x Msteam 
+credit: median
